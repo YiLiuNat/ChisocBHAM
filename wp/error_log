@@ -1,0 +1,7 @@
+[19-Apr-2017 17:46:12 UTC] PHP Warning:  Creating default object from empty value in /home/uobchine/public_html/wp/wp-content/themes/sensible-wp/inc/customizer.php on line 2707
+[19-Apr-2017 17:46:34 UTC] PHP Warning:  Creating default object from empty value in /home/uobchine/public_html/wp/wp-content/themes/sensible-wp/inc/customizer.php on line 2707
+[25-Apr-2017 12:12:34 UTC] PHP Notice:  Use of undefined constant APP_KEY - assumed 'APP_KEY' in /home/uobchine/public_html/wp/wp-content/plugins/sina-weibo-plugin-for-wordpress/weiboplugin.php on line 15
+[25-Apr-2017 12:12:34 UTC] PHP Notice:  Use of undefined constant APP_SECRET - assumed 'APP_SECRET' in /home/uobchine/public_html/wp/wp-content/plugins/sina-weibo-plugin-for-wordpress/weiboplugin.php on line 16
+[25-Apr-2017 12:12:34 UTC] PHP Notice:  The called constructor method for WP_Widget in Weibo_Widget is <strong>deprecated</strong> since version 4.3.0! Use <pre>__construct()</pre> instead. in /home/uobchine/public_html/wp/wp-includes/functions.php on line 3893
+[27-Apr-2017 14:42:56 UTC] PHP Notice:  Undefined variable: registration_url in /home/uobchine/public_html/wp/wp-login.php on line 936
+[27-Apr-2017 18:43:09 UTC] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/uobchine/public_html/wp/wp-includes/comment-template.php on line 2220

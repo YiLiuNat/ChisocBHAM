@@ -1,0 +1,63 @@
+#dfoxw_resetwechar{
+	-webkit-touch-callout:none;
+	font-family:-apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+	background-color: #fff;
+	line-height:inherit;
+	overflow:hidden;
+	color:#3e3e3e;
+	*{
+		word-spacing:0;
+		box-shadow:none;
+		border:none;
+		max-width: 100% !important;
+		box-sizing: border-box !important;
+		-webkit-box-sizing: border-box !important;
+		word-wrap: break-word !important;
+		margin: 0;
+		padding: 0;
+		color: #3e3e3e;
+		&:after,&:before{
+			content: '';
+			display: none;
+		}
+		&:hover{
+			word-spacing:0;
+			box-shadow:none;
+			border:none;
+			max-width: 100% !important;
+			box-sizing: border-box !important;
+			-webkit-box-sizing: border-box !important;
+			word-wrap: break-word !important;
+			margin: 0;
+			padding: 0;
+		}
+	}
+	blockquote,blockquote:hover{
+		margin:0;
+		padding-left:10px;
+		border-left:3px solid #dbdbdb
+	}
+	fieldset{
+		min-width:0;
+	}
+	em,em:hover{
+		font-style:italic;
+	}
+	h1,h2,h3,h4,h5,h6{
+		
+	}
+	p,ol,ul{
+		padding:0;
+		margin:0;
+	}
+	p,p:hover{
+		clear: both;
+		min-height: 1em;
+	}
+	img,img:hover{
+		width: auto;
+		height:auto!important;
+		max-width: 100%;
+		display:inline;
+	}
+}
